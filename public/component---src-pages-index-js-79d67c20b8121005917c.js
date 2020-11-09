@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{RXBc:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),r=n.n(a),u=(n("/Cf1"),n("pAKa")),l=n("vrFN");t.default=function(){return r.a.createElement(r.a.Fragment,null,r.a.createElement(l.a,{title:"Wanted",keywords:["future","super","quiz"]}),r.a.createElement(u.default,null))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-79d67c20b8121005917c.js.map
